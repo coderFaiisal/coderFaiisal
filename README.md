@@ -18,11 +18,7 @@
 - ⚡ Fun Fact: I love to Sleep 😍
 - 👨‍💻 Projects are available at **[My Projects](https://github.com/coderFaiisal?tab=repositories)**
 
-## <h2 align="center">Connect with me 💫</h2>
-
-
-
-
+## Connect with me 💫
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100056138835736)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coderFaiisal)
