@@ -54,7 +54,7 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderFaiisal&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="coderFaiisal" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderFaiisal&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="coderFaiisal" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderFaiisal&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="coderFaiisal" /></p>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=coderFaiisal)
 
