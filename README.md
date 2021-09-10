@@ -1,4 +1,4 @@
-![Banner](/assets/banner.jpg)
+![Banner](/assets/banner.png)
 
 <h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> there, I'm Faisal</h1>
 
