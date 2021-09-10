@@ -8,6 +8,8 @@
 
 ## <h2 align="center">Talking about Personal Stuffs 😍😍</h2>
 
+<img src="/assets/programming.gif" align="right" width="40%">
+
 - 📙 I’m currently working at **My Sweet Home**!🤣
 - 🌱 I'm currently Learning **TypeScript, Redux**
 - 🎯 2021 Goals: **Next.js**
@@ -16,7 +18,6 @@
 - ⚡ Fun Fact: I love to Sleep 😍
 - ⚡ Ask me about anything, I'm happy to help
 - 👨‍💻 Projects are available at **[My Projects](https://github.com/coderFaiisal?tab=repositories)**
-  <img src="/assets/programming.gif" align="right" width="40%">
 
 ## Connect with me 💫
 
