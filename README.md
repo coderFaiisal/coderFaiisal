@@ -1,22 +1,21 @@
 ![Banner](/assets/banner.jpg)
 
-<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> there, I'm Faisal
-</br>
-<span align="center" font-size="10px">Glad to see you here!</span>
-</h1>
+<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> there, I'm Faisal</h1>
 
 <h2 align="center">About Me 🗒</h2>
 
 <p>A curious, passionate Jr. MERN stack developer. I've been coding for over 1 year now. JavaScript is my crush language. As a programmer, I'm always ready to face new challenges. In the near future, I would like to see myself as an excellent MERN stack developer. 😍😍</p>
 
-## <h2 align="center">A Deep Heart React Lover 😍😍</h2>
+## <h2 align="center">Talking about Personal Stuffs 😍😍</h2>
 
+<img src="/assets/programming.gif" align="right">
 - 📙 I’m currently working at **My Sweet Home**!🤣
 - 🌱 I'm currently Learning **TypeScript, Redux**
 - 🎯 2021 Goals: **Next.js**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 💻 Most used code: `console.log()`
 - ⚡ Fun Fact: I love to Sleep 😍
+- ⚡ Ask me about anything, I'm happy to help
 - 👨‍💻 Projects are available at **[My Projects](https://github.com/coderFaiisal?tab=repositories)**
 
 ## Connect with me 💫
