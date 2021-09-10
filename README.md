@@ -56,6 +56,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderFaiisal&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="coderFaiisal" /></p>
 
-### align="center" ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=coderFaiisal)
+###                 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=coderFaiisal)
 
 <a href="https://github.com/coderFaiisal/github-readme-activity-graph"><img alt="Faisal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=coderFaiisal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
