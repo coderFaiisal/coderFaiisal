@@ -3,11 +3,9 @@
 <h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> there, I'm Faisal <img src="/assets/banner.jpg" width="40px" height="40px" border-radius="50%"></h1>
 <h3 align="center">Glad to see you here!</h3>
 
-###
-
-<h2 align="center">About Me 🗒</h2>
-
-<p>A curious, passionate Jr. MERN stack developer. I've been coding for over 1 year now. JavaScript is my crush language. As a programmer, I'm always ready to face new challenges. In the near future, I would like to see myself as an excellent MERN stack developer. 😍😍</p>
+<p> <h2 align="center">About Me 🗒</h2>
+</br>
+A curious, passionate Jr. MERN stack developer. I've been coding for over 1 year now. JavaScript is my crush language. As a programmer, I'm always ready to face new challenges. In the near future, I would like to see myself as an excellent MERN stack developer. 😍😍</p>
 
 ## <h2 align="center">A Deep Heart React Lover 😍😍</h2>
 
