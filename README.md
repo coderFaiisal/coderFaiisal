@@ -1,6 +1,8 @@
 ![Banner](/assets/banner.jpg)
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Faisal</h1>
+<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> there, I'm Faisal
+</br>
+Glad to see you here!</h1>
 
 ###
 
