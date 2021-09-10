@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 💻 Most used code: `console.log()`
 - ⚡ Fun Fact: I love to Sleep 😍
-- ⚡ Ask me about anything, I'm happy to help
+- ⚡ Ask me about anything, I'm happy to help.
 - 👨‍💻 Projects are available at **[My Projects](https://github.com/coderFaiisal?tab=repositories)**
 
 ## Connect with me 💫
@@ -27,6 +27,8 @@
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.r.faisal13@gmail.com)
 
 ## Languages and Tools:
+
+<img src="/assets/banner.jpg" width="30%">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
