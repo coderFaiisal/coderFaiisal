@@ -26,7 +26,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-r-faisal-133484220/)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.r.faisal13@gmail.com)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-D14836?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/coderFaiisal/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0077B5?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/coderFaiisal/)
 
 ## 🚀 Languages and Tools:
 
