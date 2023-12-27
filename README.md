@@ -1,9 +1,9 @@
 <img src="/assets/cover.png" />
 
 <h3>
-<p align="center">Thanks 💙 For Being A Valuable Visitor of My Profile Among</p>
+<p align="center">Thanks ❤️ For Being A Valuable Visitor of My Profile Among</p>
   <p align="center">
-  <img height="45" src="https://profile-counter.glitch.me/coderFaiisal/count.svg" style="border: 2px solid #00F0FF; border-radius:5px; padding: 25px;" title="free hit counter" alt="free hit counter">
+  <img height="45" src="https://profile-counter.glitch.me/coderFaiisal/count.svg" border="2px solid #00F0FF" style="border: 2px solid #00F0FF; border-radius:5px; padding: 25px;" title="free hit counter" alt="free hit counter">
   </p>
 </h3>
 
