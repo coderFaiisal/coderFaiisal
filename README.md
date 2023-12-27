@@ -1,9 +1,10 @@
 <img src="/assets/cover.png" />
 
+<br/>
 <h3>
 <p align="center">Thanks ❤️ For Being A Valuable Visitor of My Profile Among</p>
   <p align="center">
-  <img height="45" src="https://profile-counter.glitch.me/coderFaiisal/count.svg" border="2px solid #00F0FF" style="border: 2px solid #00F0FF; border-radius:5px; padding: 25px;" title="free hit counter" alt="free hit counter">
+  <img height="45" src="https://profile-counter.glitch.me/coderFaiisal/count.svg" title="free hit counter" alt="free hit counter">
   </p>
 </h3>
 
@@ -109,3 +110,9 @@ If you're interested in connecting and having a discussion with me, I'm always r
     <img alt="Faisal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=coderFaiisal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
   </a>
 </p>
+
+## ✒️ My blogs:
+
+Do you love to read blogs? then you can check out my latest blogs. I wrote them with love ❤️ for you.
+
+<!-- - [Blog title](blog-link) -->
