@@ -38,6 +38,16 @@ If you're interested in connecting and having a discussion with me, I'm always r
 
 <br/>
 
+<h2 align="center">Talking about Personal Stuffs 📓</h2>
+
+<img src="/assets/programming.gif" align="right" width="40%">
+
+- 🔭 I’m currently working on building **my own design system**.
+- 🌱 I'm currently Learning **Advance Topics of Relational Databases, Backend Development, System Design and SDLC**.
+- 🎯 2021 Goals: **Next.js**
+- 👯 I’m looking to collaborate on any **NodeJS backend related Open Source Projects**.
+- 💬 Ask me about **JS, ReactJS, NodeJS, SQL or No-SQL Database related queestions**. I would be happy to share my knowledge.
+
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
@@ -64,29 +74,6 @@ If you're interested in connecting and having a discussion with me, I'm always r
     <img alt="Faisal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=coderFaiisal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
   </a>
 </p>
-
-## :muscle: Our Mission\_
-
-<br />
-<br />
-<br />
-<h3 align="center">You'll often find me staring at my computer screen, trying to figure out web development problems or exploring new technologies.</h3>
-<br />
-<br />
-<br />
-
-## <h2 align="center">Talking about Personal Stuffs 😍😍</h2>
-
-<img src="/assets/programming.gif" align="right" width="40%">
-
-- 📙 I’m currently working at **My Sweet Home**!🤣
-- 🌱 I'm currently Learning **TypeScript, Redux**
-- 🎯 2021 Goals: **Next.js**
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-- 💻 Most used code: `console.log()`
-- ⚡ Fun Fact: I love to Sleep 😍
-- 📫 Ask me about anything, I'm happy to help.
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/coderFaiisal?tab=repositories)**
 
 ## Connect with me 💫
 
