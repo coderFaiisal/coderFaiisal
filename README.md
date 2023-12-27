@@ -24,7 +24,7 @@ I enjoy sharing my knowledge with others and believe that even small bits of kno
 
 If you're interested in connecting and having a discussion with me, I'm always ready to chat! Let's connect 🚀 🚀 🚀
 
-## 🕸️ :mailbox: Reach me out
+## 🕸️ Reach me out
 
 <a href="https://arfaisal.netlify.app/" target="blank"><img align="center" src="assets/social-icons/website.svg" alt="portfolio" height="45" width="45" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/azizur-rahman-faisal/" target="blank"><img align="center" src="./assets/social-icons/linkedin.svg" alt="linkedin" height="45" width="45" /></a>&nbsp;
@@ -37,6 +37,18 @@ If you're interested in connecting and having a discussion with me, I'm always r
 <br />
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=coderFaiisal&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
+
+## 📊 My Github Stats:
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderFaiisal&show_icons=true&theme=react&title_color=FF1CF7&icon_color=FF1CF7&text_color=00F0FF&bg_color=0D1117&hide_border=true&locale=en" alt="coderFaiisal" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderFaiisal&show_icons=true&theme=react&title_color=FF1CF7&text_color=00F0FF&bg_color=0D1117&hide_border=true&locale=en&layout=compact" alt="coderFaiisal" /></p>
+
+<p align="center">
+  <a href="https://github.com/coderFaiisal">
+    <img alt="Faisal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=coderFaiisal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+  </a>
 </p>
 
 ## :muscle: Our Mission\_
@@ -95,11 +107,3 @@ If you're interested in connecting and having a discussion with me, I'm always r
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-## 📊 My Github Stats:
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderFaiisal&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="coderFaiisal" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderFaiisal&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="coderFaiisal" /></p>
-
-<a href="https://github.com/coderFaiisal/github-readme-activity-graph"><img alt="Faisal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=coderFaiisal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
