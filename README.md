@@ -1,8 +1,13 @@
 <img src="/assets/cover.png" />
 
-<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> there, I'm Faisal</h1>
+<h2 align="center"> 
+Thanks 💙 For Being A Valuable Visitor of My Profile Among
+<br>
+<br>
+  <p align="center">
+  <img src="https://profile-counter.glitch.me/coderFaiisal/count.svg" border="0" title="free hit counter" alt="free hit counter">
+  </p>
+</h2>
 
 <h2 align="center">🙋‍♂️ About Me</h2>
 
