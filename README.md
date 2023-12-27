@@ -4,7 +4,7 @@
 
 <h2 align="center">🙋‍♂️ About Me</h2>
 
-<p>A curious, passionate Jr. MERN stack developer. I've been coding for over 1 year now. JavaScript is my crush language. As a programmer, I'm always ready to face new challenges. In the near future, I would like to see myself as an excellent MERN stack developer. 😍😍</p>
+<p>A curious man, passionate Jr. MERN stack developer. I've been coding for over 1 year now. JavaScript is my crush language. As a programmer, I'm always ready to face new challenges. In the near future, I would like to see myself as an excellent MERN stack developer. 😍😍</p>
 
 ## <h2 align="center">Talking about Personal Stuffs 😍😍</h2>
 
