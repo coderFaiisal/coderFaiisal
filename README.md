@@ -51,7 +51,7 @@ If you're interested in connecting and having a discussion with me, I'm always r
 
 <br/>
 
-## 🛠️ I'm skilled at:
+## 🛠️ Tools and technologies that I'm skilled at
 
 <a href="https://en.wikipedia.org/wiki/HTML"><img align="center" src="./assets/skill-and-tools/html.svg" alt=" Skill | HTML" title="HTML" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp;
 <a href="https://en.wikipedia.org/wiki/CSS"><img align="center" src="./assets/skill-and-tools/css.svg" alt=" Skill | CSS" title="CSS" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp;
