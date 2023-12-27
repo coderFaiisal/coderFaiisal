@@ -1,22 +1,18 @@
 <img src="/assets/cover.png" />
 
-<p  style="font-size:20px;" align="center"> 
-Thanks 💙 For Being A Valuable Visitor of My Profile Among
-<br>
-<br>
+<h2>
+<p align="center">Thanks 💙 For Being A Valuable Visitor of My Profile Among</p>
   <p align="center">
   <img height="50" src="https://profile-counter.glitch.me/coderFaiisal/count.svg" border="0" title="free hit counter" alt="free hit counter">
   </p>
-</p>
-<br/>
-<br/>
+</h2>
 
-<h1 align="center">🙋‍♂️ Introducing me</h1>
+<h3 align="center" style="text-decoration: none;">🙋‍♂️ Introducing me</h3>
 
 Welcome! It's great to have you here 😊 I hope you're doing well.
-
 <br/>
-<p style="font-size:18px; font-weight:bold"> I would like to introduce myself as a self taught 🎓 `Web Developer` 💻</p>
+
+<h3 style="font-size:18px; font-weight:bold"> I would like to introduce myself as a self taught 🎓 `Web Developer` 💻 💻 💻</h3>
 
 As a self-taught Web Developer, my passion lies in connecting design and development with code to create something practical and useful. Whenever I complete a project, I love to say "Hello World! I've made something for you" 😌
 
