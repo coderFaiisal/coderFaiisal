@@ -32,13 +32,13 @@ If you're interested in connecting and having a discussion with me, I'm always r
 <p align="center">
 <a href="https://arfaisal.netlify.app/" target="blank"><img align="center" src="assets/social-icons/website.svg" alt="portfolio" height="45" width="45" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/azizur-rahman-faisal/" target="blank"><img align="center" src="./assets/social-icons/linkedin.svg" alt="linkedin" height="45" width="45" /></a>&nbsp;
-<a href="a.r.faisal13@gmail.com" target="blank"><img align="center" src="assets/social-icons/email.svg" alt="email" height="45" width="45" /></a>&nbsp;
+<a href="mailto:a.r.faisal13@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836" alt="email" height="45" width="45" /></a>&nbsp;
 <a href="https://web.whatsapp.com/send?phone=8801610974513" target="blank"><img align="center" src="./assets/social-icons/whatsapp.svg" alt="whatsapp" height="45" width="45" /></a>&nbsp;
 <a href="https://web.facebook.com/profile.php?id=100056138835736" target="blank"><img align="center" src="./assets/social-icons/facebook.svg" alt="facebook" height="45" width="45" /></a></p>
 
 <br/>
 
-<h2 align="center">Talking about Personal Stuffs 📓</h2>
+<h2>Talking about Personal Stuffs 📓</h2>
 
 <img src="/assets/programming.gif" align="right" width="40%">
 
@@ -47,6 +47,22 @@ If you're interested in connecting and having a discussion with me, I'm always r
 - 🎯 2021 Goals: **Next.js**
 - 👯 I’m looking to collaborate on any **NodeJS backend related Open Source Projects**.
 - 💬 Ask me about **JS, ReactJS, NodeJS, SQL or No-SQL Database related queestions**. I would be happy to share my knowledge.
+
+<br/>
+
+## 🛠️ I'm skilled at:
+
+<a href="https://en.wikipedia.org/wiki/HTML"><img align="center" src="./assets/skill-and-tools/html.svg" alt=" Skill | HTML" title="HTML" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://en.wikipedia.org/wiki/CSS"><img align="center" src="./assets/skill-and-tools/css.svg" alt=" Skill | CSS" title="CSS" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://getbootstrap.com/"><img align="center" src="./assets/skill-and-tools/bootstrap.svg" alt=" Skill | Bootstrap" title="Bootstrap" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://www.javascript.com/"><img align="center" src="./assets/skill-and-tools/javascript.svg" alt=" Skill | Javascript" title="Javascript" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://reactjs.org/"><img align="center" src="./assets/skill-and-tools/react.svg" alt=" Skill | React JS" title="React JS" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://nextjs.org/"><img align="center" src="./assets/skill-and-tools/nextjs.svg" alt=" Skill | Next JS" title="Next JS" height="40"/></a>&nbsp; &nbsp; &nbsp;
+<a href="https://ant.design/"><img align="center" src="./assets/skill-and-tools/ant-design.png" alt=" Skill | Ant Design" title="Ant Design" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://eslint.org/"><img align="center" src="./assets/skill-and-tools/eslint.svg" alt=" Skill | ES Lint" title="ES Lint" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://git-scm.com/"><img align="center" src="./assets/skill-and-tools/git.svg" alt=" Skill | Git" title="Git" height="40" /></a>&nbsp; &nbsp; &nbsp;
+
+<br/>
 
 ## :chart_with_upwards_trend: Current Stats
 
@@ -75,18 +91,7 @@ If you're interested in connecting and having a discussion with me, I'm always r
   </a>
 </p>
 
-## Connect with me 💫
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100056138835736)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coderFaiisal)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-r-faisal-133484220/)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.r.faisal13@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-100000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/coderFaiisal/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-c5f015?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/coderFaiisal)
-
 ## 🚀 Languages and Tools:
-
-<img align="center" src="/assets/mern.jpg" width="100%" height="240px">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
