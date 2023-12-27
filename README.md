@@ -3,7 +3,7 @@
 <h3>
 <p align="center">Thanks 💙 For Being A Valuable Visitor of My Profile Among</p>
   <p align="center">
-  <img height="40" src="https://profile-counter.glitch.me/coderFaiisal/count.svg" border="0" title="free hit counter" alt="free hit counter">
+  <img height="45" src="https://profile-counter.glitch.me/coderFaiisal/count.svg" style="border: 2px solid #00F0FF; border-radius:5px; padding: 25px;" title="free hit counter" alt="free hit counter">
   </p>
 </h3>
 
@@ -38,7 +38,7 @@ If you're interested in connecting and having a discussion with me, I'm always r
 
 <br/>
 
-<h2>Talking about Personal Stuffs 📓</h2>
+<h2>📓 Talking about Personal Stuffs</h2>
 
 <img src="/assets/programming.gif" align="right" width="40%">
 
@@ -54,13 +54,32 @@ If you're interested in connecting and having a discussion with me, I'm always r
 
 <a href="https://en.wikipedia.org/wiki/HTML"><img align="center" src="./assets/skill-and-tools/html.svg" alt=" Skill | HTML" title="HTML" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp;
 <a href="https://en.wikipedia.org/wiki/CSS"><img align="center" src="./assets/skill-and-tools/css.svg" alt=" Skill | CSS" title="CSS" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://tailwindcss.com/"><img align="center" src="./assets/skill-and-tools/tailwind.svg" alt=" Skill | TailwindCSS" title="TailwindCSS" height="40" /></a>&nbsp; &nbsp; &nbsp;
 <a href="https://getbootstrap.com/"><img align="center" src="./assets/skill-and-tools/bootstrap.svg" alt=" Skill | Bootstrap" title="Bootstrap" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://ant.design/"><img align="center" src="./assets/skill-and-tools/ant-design.png" alt=" Skill | Ant Design" title="Ant Design" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp;
 <a href="https://www.javascript.com/"><img align="center" src="./assets/skill-and-tools/javascript.svg" alt=" Skill | Javascript" title="Javascript" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://www.typescriptlang.org/"><img align="center" src="./assets/skill-and-tools/typescript.svg" alt=" Skill | Typescript" title="Typescript" height="55" width="55" /></a>&nbsp; &nbsp; &nbsp;
 <a href="https://reactjs.org/"><img align="center" src="./assets/skill-and-tools/react.svg" alt=" Skill | React JS" title="React JS" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp;
 <a href="https://nextjs.org/"><img align="center" src="./assets/skill-and-tools/nextjs.svg" alt=" Skill | Next JS" title="Next JS" height="40"/></a>&nbsp; &nbsp; &nbsp;
-<a href="https://ant.design/"><img align="center" src="./assets/skill-and-tools/ant-design.png" alt=" Skill | Ant Design" title="Ant Design" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://redux-toolkit.js.org/"><img align="center" src="./assets/skill-and-tools/redux.svg" alt=" Skill | Redux" title="Redux" height="40"/></a>&nbsp; &nbsp; &nbsp;
+<a href="https://nodejs.org/en"><img align="center" src="./assets/skill-and-tools/nodejs.svg" alt=" Skill | NodeJS" title="NodeJS" height="40"/></a>&nbsp; &nbsp; &nbsp;
+<a href="https://expressjs.com"><img align="center" src="./assets/skill-and-tools/expressjs.svg" alt=" Skill | ExpressJS" title="ExpressJS" height="40"/></a>&nbsp; &nbsp; &nbsp;
+<a href="https://www.postgresql.org"><img align="center" src="./assets/skill-and-tools/postgresql.svg" alt=" Skill | PostgreSQL" title="PostgreSQL" height="40"/></a>&nbsp; &nbsp; &nbsp;
+<a href="https://www.prisma.io/"><img align="center" src="./assets/skill-and-tools/prisma.svg" alt=" Skill | Prisma" title="Prisma" height="40"/></a>&nbsp; &nbsp; &nbsp;
+<a href="https://www.mongodb.com"><img align="center" src="./assets/skill-and-tools/mongoDB.png" alt=" Skill | MongoDB" title="MongoDB" height="40"/></a>&nbsp; &nbsp; &nbsp;
+<a href="https://mongoosejs.com"><img align="center" src="./assets/skill-and-tools/mongoose.svg" alt=" Skill | Mongoose" title="Mongoose" height="50"/></a>&nbsp; &nbsp; &nbsp;
+<a href="https://redis.io/"><img align="center" src="./assets/skill-and-tools/redis.svg" alt=" Skill | Redis" title="Redis" height="50"/></a>&nbsp; &nbsp; &nbsp;
+<a href="https://firebase.google.com"><img align="center" src="./assets/skill-and-tools/firebase.svg" alt=" Skill | Firebase" title="Firebase" height="40"/></a>&nbsp; &nbsp; &nbsp;
+<a href="https://vercel.com"><img align="center" src="./assets/skill-and-tools/vercel.svg" alt=" Skill | Vercel" title="Vercel" height="50" width="60" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://www.heroku.com"><img align="center" src="./assets/skill-and-tools/heroku.svg" alt=" Skill | Heroku" title="Heroku" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://app.netlify.com/"><img align="center" src="./assets/skill-and-tools/netlify.svg" alt=" Skill | Netlify" title="Netlify" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://cloudinary.com/"><img align="center" src="./assets/skill-and-tools/cloudinary.svg" alt=" Skill | Cloudinary" title="Cloudinary" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://code.visualstudio.com/"><img align="center" src="./assets/skill-and-tools/vscode.svg" alt=" Skill | VS Code" title="Visual Studio Code" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp;
 <a href="https://eslint.org/"><img align="center" src="./assets/skill-and-tools/eslint.svg" alt=" Skill | ES Lint" title="ES Lint" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp;
 <a href="https://git-scm.com/"><img align="center" src="./assets/skill-and-tools/git.svg" alt=" Skill | Git" title="Git" height="40" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://www.postman.com/"><img align="center" src="./assets/skill-and-tools/postman.svg" alt=" Skill | Postman" title="Postman" height="40" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://www.npmjs.com/"><img align="center" src="./assets/skill-and-tools/npm.svg" alt=" Skill | NPM" title="NPM" height="60" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://yarnpkg.com/"><img align="center" src="./assets/skill-and-tools/yarn.svg" alt=" Skill | Yarn" title="Yarn" height="40" /></a>&nbsp; &nbsp; &nbsp;
 
 <br/>
 
@@ -90,26 +109,3 @@ If you're interested in connecting and having a discussion with me, I'm always r
     <img alt="Faisal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=coderFaiisal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
   </a>
 </p>
-
-## 🚀 Languages and Tools:
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Bootstrap5](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
