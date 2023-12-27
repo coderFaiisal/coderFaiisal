@@ -1,13 +1,15 @@
 <img src="/assets/cover.png" />
 
-<h2>
+<h3>
 <p align="center">Thanks 💙 For Being A Valuable Visitor of My Profile Among</p>
   <p align="center">
-  <img height="50" src="https://profile-counter.glitch.me/coderFaiisal/count.svg" border="0" title="free hit counter" alt="free hit counter">
+  <img height="40" src="https://profile-counter.glitch.me/coderFaiisal/count.svg" border="0" title="free hit counter" alt="free hit counter">
   </p>
-</h2>
+</h3>
 
-<h3 align="center" style="text-decoration: none;">🙋‍♂️ Introducing me</h3>
+<br/>
+
+<h1 align="center" style="text-decoration: none;">🙋‍♂️ Introducing me</h1>
 
 Welcome! It's great to have you here 😊 I hope you're doing well.
 <br/>
@@ -20,13 +22,21 @@ I enjoy sharing my knowledge with others and believe that even small bits of kno
 
 If you're interested in connecting and having a discussion with me, I'm always ready to chat! Let's connect 🚀 🚀 🚀
 
+<br/>
+
 ## 🕸️ Reach me out
 
+<br/>
+<br/>
+
+<p align="center">
 <a href="https://arfaisal.netlify.app/" target="blank"><img align="center" src="assets/social-icons/website.svg" alt="portfolio" height="45" width="45" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/azizur-rahman-faisal/" target="blank"><img align="center" src="./assets/social-icons/linkedin.svg" alt="linkedin" height="45" width="45" /></a>&nbsp;
 <a href="a.r.faisal13@gmail.com" target="blank"><img align="center" src="assets/social-icons/email.svg" alt="email" height="45" width="45" /></a>&nbsp;
 <a href="https://web.whatsapp.com/send?phone=8801610974513" target="blank"><img align="center" src="./assets/social-icons/whatsapp.svg" alt="whatsapp" height="45" width="45" /></a>&nbsp;
-<a href="https://web.facebook.com/profile.php?id=100056138835736" target="blank"><img align="center" src="./assets/social-icons/facebook.svg" alt="facebook" height="45" width="45" /></a>&nbsp;
+<a href="https://web.facebook.com/profile.php?id=100056138835736" target="blank"><img align="center" src="./assets/social-icons/facebook.svg" alt="facebook" height="45" width="45" /></a></p>
+
+<br/>
 
 ## :chart_with_upwards_trend: Current Stats
 
@@ -35,11 +45,19 @@ If you're interested in connecting and having a discussion with me, I'm always r
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=coderFaiisal&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
+<br/>
+
 ## 📊 My Github Stats:
+
+<br/>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderFaiisal&show_icons=true&theme=react&title_color=FF1CF7&icon_color=FF1CF7&text_color=00F0FF&bg_color=0D1117&hide_border=true&locale=en" alt="coderFaiisal" /></p>
 
+<br/>
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderFaiisal&show_icons=true&theme=react&title_color=FF1CF7&text_color=00F0FF&bg_color=0D1117&hide_border=true&locale=en&layout=compact" alt="coderFaiisal" /></p>
+
+<br/>
 
 <p align="center">
   <a href="https://github.com/coderFaiisal">
