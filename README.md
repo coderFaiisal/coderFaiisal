@@ -1,20 +1,36 @@
 <img src="/assets/cover.png" />
 
-<h2 align="center"> 
+<p  style="font-size:20px;" align="center"> 
 Thanks 💙 For Being A Valuable Visitor of My Profile Among
 <br>
 <br>
   <p align="center">
-  <img src="https://profile-counter.glitch.me/coderFaiisal/count.svg" border="0" title="free hit counter" alt="free hit counter">
+  <img height="50" src="https://profile-counter.glitch.me/coderFaiisal/count.svg" border="0" title="free hit counter" alt="free hit counter">
   </p>
-</h2>
-
-## :mailbox: Reach me out
-
+</p>
 <br/>
 <br/>
 
-**_<p align="center"> [<img height="55" width="180" src="assets/website.png">](https://arfaisal.netlify.app/)[<img height="55" width="180" src="assets/linkedin.png">](https://www.linkedin.com/in/azizur-rahman-faisal/)[<img height="55" width="180" src="assets/facebook.png">](https://web.facebook.com/profile.php?id=100056138835736)</p>_**
+<h1 align="center">🙋‍♂️ Introducing me</h1>
+
+Welcome! It's great to have you here 😊 I hope you're doing well.
+
+<br/>
+<p style="font-size:18px; font-weight:bold"> I would like to introduce myself as a self taught 🎓 `Web Developer` 💻</p>
+
+As a self-taught Web Developer, my passion lies in connecting design and development with code to create something practical and useful. Whenever I complete a project, I love to say "Hello World! I've made something for you" 😌
+
+I enjoy sharing my knowledge with others and believe that even small bits of knowledge can lead to big breakthroughs. One of my favorite things to do is to engage in an open discussion on any tech topic over a cup of coffee ☕
+
+If you're interested in connecting and having a discussion with me, I'm always ready to chat! Let's connect 🚀 🚀 🚀
+
+## 🕸️ :mailbox: Reach me out
+
+<a href="https://arfaisal.netlify.app/" target="blank"><img align="center" src="assets/social-icons/website.svg" alt="portfolio" height="45" width="45" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/azizur-rahman-faisal/" target="blank"><img align="center" src="./assets/social-icons/linkedin.svg" alt="linkedin" height="45" width="45" /></a>&nbsp;
+<a href="a.r.faisal13@gmail.com" target="blank"><img align="center" src="assets/social-icons/email.svg" alt="email" height="45" width="45" /></a>&nbsp;
+<a href="https://web.whatsapp.com/send?phone=8801610974513" target="blank"><img align="center" src="./assets/social-icons/whatsapp.svg" alt="whatsapp" height="45" width="45" /></a>&nbsp;
+<a href="https://web.facebook.com/profile.php?id=100056138835736" target="blank"><img align="center" src="./assets/social-icons/facebook.svg" alt="facebook" height="45" width="45" /></a>&nbsp;
 
 ## :chart_with_upwards_trend: Current Stats
 
@@ -23,9 +39,15 @@ Thanks 💙 For Being A Valuable Visitor of My Profile Among
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=coderFaiisal&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
-<h2 align="center">🙋‍♂️ About Me</h2>
+## :muscle: Our Mission\_
 
-<p>A curious man, passionate Jr. MERN stack developer. I've been coding for over 1 year now. JavaScript is my crush language. As a programmer, I'm always ready to face new challenges. In the near future, I would like to see myself as an excellent MERN stack developer. 😍😍</p>
+<br />
+<br />
+<br />
+<h3 align="center">You'll often find me staring at my computer screen, trying to figure out web development problems or exploring new technologies.</h3>
+<br />
+<br />
+<br />
 
 ## <h2 align="center">Talking about Personal Stuffs 😍😍</h2>
 
