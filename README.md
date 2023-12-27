@@ -9,6 +9,20 @@ Thanks 💙 For Being A Valuable Visitor of My Profile Among
   </p>
 </h2>
 
+## :mailbox: Reach me out
+
+<br/>
+<br/>
+
+**_<p align="center"> [<img height="55" width="180" src="assets/website.png">](https://arfaisal.netlify.app/)[<img height="55" width="180" src="assets/linkedin.png">](https://www.linkedin.com/in/azizur-rahman-faisal/)[<img height="55" width="180" src="assets/facebook.png">](https://web.facebook.com/profile.php?id=100056138835736)</p>_**
+
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=coderFaiisal&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
+
 <h2 align="center">🙋‍♂️ About Me</h2>
 
 <p>A curious man, passionate Jr. MERN stack developer. I've been coding for over 1 year now. JavaScript is my crush language. As a programmer, I'm always ready to face new challenges. In the near future, I would like to see myself as an excellent MERN stack developer. 😍😍</p>
@@ -59,8 +73,6 @@ Thanks 💙 For Being A Valuable Visitor of My Profile Among
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-### <p align="center"> ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=coderFaiisal) </p>
 
 ## 📊 My Github Stats:
 
