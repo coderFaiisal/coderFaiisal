@@ -15,9 +15,9 @@
 Welcome! It's great to have you here 😊 I hope you're doing well.
 <br/>
 
-<h3 style="font-size:18px; font-weight:bold"> I would like to introduce myself as a self taught 🎓 `Web Developer` 💻 💻 💻</h3>
+<h3 style="font-size:18px; font-weight:bold"> I would like to introduce myself as a 🎓 `Web Developer` 💻 💻 💻</h3>
 
-As a self-taught Web Developer, my passion lies in connecting design and development with code to create something practical and useful. Whenever I complete a project, I love to say "Hello World! I've made something for you" 😌
+As a Web Developer, my passion lies in connecting design and development with code to create something practical and useful. Whenever I complete a project, I love to say "Hello World! I've made something for you" 😌
 
 I enjoy sharing my knowledge with others and believe that even small bits of knowledge can lead to big breakthroughs. One of my favorite things to do is to engage in an open discussion on any tech topic over a cup of coffee ☕
 
@@ -45,8 +45,8 @@ If you're interested in connecting and having a discussion with me, I'm always r
 
 - 🔭 I’m currently working on building **my own design system**.
 - 🌱 I'm currently Learning **Advance Topics of Relational Databases, Backend Development, System Design and SDLC**.
-- 🎯 2021 Goals: **Next.js**
-- 👯 I’m looking to collaborate on any **NodeJS backend related Open Source Projects**.
+- 🎯 2024 Goals: **Deep dive into backend development and start learning DSA**
+- 👯 I’m looking to collaborate on any **Backend Open Source Projects**.
 - 💬 Ask me about **JS, ReactJS, NodeJS, SQL or No-SQL Database related queestions**. I would be happy to share my knowledge.
 
 <br/>
